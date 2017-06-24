@@ -1,0 +1,21 @@
+
+body {
+	background-image: ("img/polkadots.jpg");
+	background-color: teal;
+}
+.title{
+	
+	margin-left: 100px;
+	margin-top:100px;
+}
+
+.btnCam{
+	margin-left: 120px;
+	margin-top: 50px;
+	
+}
+
+.btnGal{
+	margin-left: 120px;
+	margin-top: 400;
+	}
